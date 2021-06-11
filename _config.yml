@@ -103,5 +103,5 @@ theme: chirpy
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-    repo: git@github.com:cczeng/cczeng.github.io.git  #这里的网址填你自己的
+    repo: git@github.com:Matiko1995/Matiko.github.io.git  #这里的网址填你自己的
     branch: master
