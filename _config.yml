@@ -102,4 +102,6 @@ theme: chirpy
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+    repo: git@github.com:cczeng/cczeng.github.io.git  #这里的网址填你自己的
+    branch: master
